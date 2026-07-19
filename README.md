@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="./space-invaders.svg" width="100%">
+  <img src="./space-invaders-deluxe.svg" width="100%">
 </p>
 
 <!--
