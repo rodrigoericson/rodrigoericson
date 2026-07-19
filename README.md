@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="./space-invaders.svg" width="100%">
+</p>
+
 <!--
 **rodrigoericson/rodrigoericson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
